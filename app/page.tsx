@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <SiteHeader />
-      <main className='flex h-[calc(100vh_-_4rem)] flex-col items-center justify-center overflow-hidden  overflow-y-scroll'>
+      <main className='flex h-[calc(100vh_-_4rem)] flex-col items-center justify-center overflow-hidden overflow-y-scroll'>
         <div className='text-center'>
           <svg
             className='mx-auto h-12 w-12 text-slate-50'
